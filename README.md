@@ -1,8 +1,8 @@
-# Lab AWS
+# Serverless app model
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
-- HelloWorldFunction/src/main - Code for the application's Lambda function.
+- HelloWorldFunction/src/main - Code for the application's Lambda function (contains temperaure app, grapper app, price difference calculator app and price watchers apps).
 - events - Invocation events that you can use to invoke the function.
 - HelloWorldFunction/src/test - Unit tests for the application code. 
 - template.yaml - A template that defines the application's AWS resources.
