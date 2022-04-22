@@ -1,0 +1,7 @@
+ip-172-31-83-88.ec2.internal
+5.10.96-90.460.amzn2.x86_64
+x86_64
+tcp        0     64 ip-172-31-83-88.ec2:ssh 176.64.19.65:18370      ESTABLISHED on (0.47/0/0)
+tcp        0      0 ip-172-31-83-88.ec2:ssh 176.64.19.65:17418      ESTABLISHED keepalive (7138.06/0/0)
+tcp        0      0 ip-172-31-83-88.ec2:ssh 176.64.19.65:17417      ESTABLISHED keepalive (7114.72/0/0)
+Fri Mar  4 05:13:28 UTC 2022

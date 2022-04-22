@@ -1,0 +1,13 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: helloworld.PriceDiff
+      CodeUri: s3://hkbu.19201761/e5fa71c861d21fa64d2b33d7773b0e67
+      Runtime: java8
+      Architectures:
+      - x86_64
+    Metadata:
+      SamResourceId: Function
